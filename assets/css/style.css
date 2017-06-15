@@ -1,3 +1,9 @@
+body{
+    margin:0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
 /*Navbar*/
 .navbar .navbar-brand{
 	padding:10px 0 15px 10px;
@@ -10,5 +16,26 @@
 /*Header*/
 
 header{
-	
+	background-image: url("../img/bg-header.jpg");
+	padding-bottom: 30px;
 }
+.img-logo-header{
+	padding: 150px 0 120px 0;
+}
+.scroll-down .btn{
+	border: 2px solid white;
+	border-radius: 100%;
+	color:white;
+	height:65px;
+	width:65px;
+}
+.scroll-down .btn:hover{
+	background: grey;
+	opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+.scroll-down .btn .fa{
+	font-size: 50px;
+}
+
+/*Section Values*/
