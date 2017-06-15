@@ -1,0 +1,30 @@
+/*Navbar*/
+.navbar{
+	background: #222222;
+	color:white;
+}
+.navbar-collapse ul{
+	list-style: none;
+}
+.navbar-collapse ul a {
+	text-decoration: none;
+	color:whitesmoke;
+	font-size:16px;
+}
+.navbar-collapse ul a:hover{
+	color:grey;
+}
+.flex-container{
+	display:flex;
+	flex-direction:row;
+	justify-content: space-between;
+}
+.logo{
+	padding:10px 0;
+}
+.navBar-elements{
+	padding:25px 18px 0px 0px;
+}
+.navbar-nav li{
+	padding:0 0 0 35px;
+}
