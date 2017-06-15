@@ -206,6 +206,9 @@ hr{
 	background-color: #F7F7F7;
 
 }
+.ajuste-carrusel-uno{
+	padding-bottom:100px;
+}
 #people h2{
 	padding:120px 0 20px 0;
 	font-family: 'Raleway', sans-serif;
@@ -226,4 +229,45 @@ hr{
 	border:1px solid grey;
 	width:150px;
 	margin-bottom:30px;
+}
+/*press*/
+#press{
+	background-color:white;
+}
+.titulo-section-fifth h2{
+	font-weight: 900;
+	margin-top: 45px;
+}
+.titulo-section-fifth h3{
+	font-weight: 900;
+}
+.texto-carrusel-dos p{
+	margin-top: 15px;
+}
+.img-carrusel-dos{
+	margin-top: 7px;
+}
+.persona-carrusel-dos h4{
+	font-weight: 700;
+	margin-bottom: 0px;
+	margin-top: 15px;
+}
+.persona-carrusel-dos p{
+	font-size: 13px;
+	margin-top: 0px;
+}
+.persona-carrusel-dos span{
+	color: #FFFC00;
+}
+.persona-carrusel-dos .ult{
+	margin-bottom: 60px;
+}
+#first-slider{
+	padding-bottom: 45px;
+}
+.carousel-control{
+	background: none !important;
+}
+.fa{
+	color: black;
 }
